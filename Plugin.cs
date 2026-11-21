@@ -12,7 +12,7 @@ namespace JustInCaseBIE
     {
         public const string GUID = "spapi.etg.justincase";
         public const string NAME = "Just In Case";
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "1.0.1";
 
         public void Awake()
         {
